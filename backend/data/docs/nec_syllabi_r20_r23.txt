@@ -1,0 +1,32 @@
+===============================================================================
+NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS) - COURSE SYLLABUS HANDOUT
+===============================================================================
+Source URL: https://www.nrtec.in/syllabus-2/
+Regulation: R20 / R23 Autonomous Syllabus
+Department: Computer Science & Engineering (CSE)
+
+COURSE CODE: CS301
+COURSE TITLE: Database Management Systems (DBMS)
+CREDITS: 4 (L:3, T:1, P:0)
+
+UNIT 1: INTRODUCTION & ER MODELING
+- Database System Applications, Purpose of Database Systems, View of Data, Database Architecture.
+- Entity-Relationship Model: Enterprise Schema, Entities, Relationships, Entity Sets, Keys (Primary, Foreign, Candidate), ER Diagrams.
+
+UNIT 2: RELATIONAL MODEL & SQL
+- Relational Model Concepts, Relational Algebra Operations (Select, Project, Join, Union, Difference).
+- SQL Fundamentals: DDL (CREATE, ALTER, DROP), DML (INSERT, UPDATE, DELETE), DQL (SELECT, WHERE, GROUP BY, HAVING).
+- Advanced SQL: Nested Subqueries, Joins (Inner, Outer), Views, Triggers.
+
+UNIT 3: NORMALIZATION & RELATIONAL DATABASE DESIGN
+- Functional Dependencies (FDs), Closure of Functional Dependencies, Attribute Closure Algorithm.
+- Normal Forms: 1NF (First Normal Form), 2NF (Second Normal Form), 3NF (Third Normal Form), BCNF (Boyce-Codd Normal Form).
+- Important Topics for Examinations: Lossless-Join Decomposition, Dependency Preservation, BCNF vs 3NF.
+
+UNIT 4: TRANSACTION MANAGEMENT & CONCURRENCY CONTROL
+- Transaction Concept, ACID Properties (Atomicity, Consistency, Isolation, Durability), Transaction States.
+- Concurrency Control: Lock-Based Protocols (2PL - Two Phase Locking), Deadlock Handling, Timestamp-Based Protocols.
+
+UNIT 5: RECOVERY SYSTEMS & INDEXING STRUCTURES
+- Storage & Indexing: B-Trees, B+ Trees, Static & Dynamic Hashing.
+- Recovery Systems: Log-Based Recovery, Write-Ahead Logging (WAL), Checkpoints, Shadow Paging.

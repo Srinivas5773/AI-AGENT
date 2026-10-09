@@ -1,0 +1,6 @@
+course_code,course_name,subject,department,instructor,credits,prerequisites
+JAVA101,Object-Oriented Programming with Java,Java Programming,Department of Computer Science,Dr. Alan Turing,4,Intro to Programming (CS100)
+CS202,Data Structures and Algorithms,Data Structures,Department of Computer Science,Prof. Ada Lovelace,4,Computer Fundamentals (CS101)
+MATH301,Advanced Calculus III,Calculus III,Department of Mathematics,Dr. Carl Friedrich Gauss,3,Calculus I & II (MATH101/102)
+CS101,Fundamentals of Computer Science,Computer Fundamentals,Department of Computer Science,Prof. Grace Hopper,3,None
+PHY101,University Physics I,Physics I,Department of Physics,Dr. Richard Feynman,4,High School Physics

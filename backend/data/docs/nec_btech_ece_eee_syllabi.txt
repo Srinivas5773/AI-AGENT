@@ -1,0 +1,27 @@
+===============================================================================
+NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS) - B.TECH ECE & EEE SYLLABUS
+===============================================================================
+Source URL: https://www.nrtec.in/syllabus-2/
+Regulation: R20 / R23 Autonomous Curriculum
+Branches: Electronics & Communication Engineering (ECE), Electrical & Electronics Engineering (EEE)
+
+COURSE 1: EC201 - SIGNALS & SYSTEMS & DIGITAL SIGNAL PROCESSING (DSP)
+- Unit 1: Continuous-Time & Discrete-Time Signals, LTI Systems, Convolution, Fourier Series & Fourier Transforms.
+- Unit 2: Z-Transforms, ROC Properties, Inverse Z-Transform, System Function H(z).
+- Unit 3: Discrete Fourier Transform (DFT), Fast Fourier Transform (FFT) Decimation-in-Time (DIT) & Decimation-in-Frequency (DIF).
+- Unit 4: IIR Filter Design: Butterworth & Chebyshev Filters, Impulse Invariance & Bilinear Transformations.
+- Unit 5: FIR Filter Design: Windowing Techniques (Rectangular, Hamming, Hanning, Blackman), Linear Phase FIR Filters.
+
+COURSE 2: EC301 - VLSI DESIGN & EMBEDDED SYSTEMS
+- Unit 1: MOS Transistor Theory, CMOS Fabrication Process, NMOS, PMOS, CMOS Inverter DC Characteristics.
+- Unit 2: Layout Design Rules, Stick Diagrams, Pass Transistor Logic, Transmission Gates.
+- Unit 3: Microcontrollers: 8051 & ARM Cortex Architecture, Registers, Interrupts, Timers, Serial Communication (UART, SPI, I2C).
+- Unit 4: Verilog HDL Hardware Description: Behavioral, Dataflow, Structural Modeling, Testbenches.
+- Unit 5: Embedded System Design: Real-Time Operating Systems (RTOS), Task Scheduling, Mutex, Semaphores.
+
+COURSE 3: EE201 - CIRCUIT THEORY & POWER SYSTEMS
+- Unit 1: KCL, KVL, Network Theorems (Thevenin's, Norton's, Superposition, Maximum Power Transfer).
+- Unit 2: AC Transient & Steady State Analysis, Resonance (Series & Parallel), 3-Phase Circuits.
+- Unit 3: Electrical Machines: Transformers (Equivalent Circuit, Efficiency, Regulation), DC Generators & Motors.
+- Unit 4: Power Generation & Transmission: Hydro, Thermal, Solar Power Systems, Transmission Line Parameters (R, L, C).
+- Unit 5: Control Systems: Transfer Functions, Block Diagram Reduction, Signal Flow Graphs, Routh-Hurwitz Stability, Bode Plot, Nyquist Stability.

@@ -1,0 +1,41 @@
+===============================================================================
+NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS) - B.TECH CSE / AI-ML / DATA SCIENCE SYLLABUS
+===============================================================================
+Source URL: https://www.nrtec.in/syllabus-2/
+Regulation: R20 / R23 Autonomous Curriculum
+Branches: Computer Science & Engineering (CSE), AI & Machine Learning (CSE-AI/ML), Data Science (CSE-DS)
+
+COURSE 1: CS201 - DATA STRUCTURES & ALGORITHMS
+- Unit 1: Stacks, Queues, Circular Queues, Priority Queues, Infix to Postfix Conversion.
+- Unit 2: Linked Lists (Singly, Doubly, Circular), Dynamic Memory Allocation.
+- Unit 3: Trees & Binary Search Trees (BST), AVL Trees, Red-Black Trees, Heap Sort.
+- Unit 4: Graph Algorithms: BFS, DFS, Dijkstra Shortest Path, Prim's & Kruskal's Minimum Spanning Tree.
+- Unit 5: Searching & Sorting: Bubble, Selection, Insertion, Quick Sort, Merge Sort, Hashing Techniques.
+
+COURSE 2: CS302 - OPERATING SYSTEMS (OS)
+- Unit 1: OS Structures, System Calls, Process Management, Process Control Block (PCB), CPU Scheduling Algorithms (FCFS, SJF, Round Robin, Priority).
+- Unit 2: Process Synchronization: Critical Section Problem, Semaphores, Monitors, Classical IPC Problems (Producer-Consumer, Dining Philosophers).
+- Unit 3: Deadlocks: Characterization, Prevention, Avoidance (Banker's Algorithm), Detection & Recovery.
+- Unit 4: Memory Management: Paging, Segmentation, Virtual Memory, Demand Paging, Page Replacement Algorithms (FIFO, LRU, Optimal).
+- Unit 5: File Systems: Directory Implementation, Allocation Methods (Contiguous, Linked, Indexed), Disk Scheduling (FCFS, SSTF, SCAN, C-SCAN).
+
+COURSE 3: CS303 - COMPUTER NETWORKS (CN)
+- Unit 1: OSI Reference Model vs TCP/IP Protocol Suite, Physical Layer, Guided & Unguided Transmission Media.
+- Unit 2: Data Link Layer: Framing, Error Detection & Correction (CRC, Hamming Code), Sliding Window Protocols (Stop-and-Wait, Go-Back-N, Selective Repeat).
+- Unit 3: Network Layer: IPv4 & IPv6 Addressing, Subnetting, Routing Algorithms (Distance Vector, Link State Routing - OSPF, BGP).
+- Unit 4: Transport Layer: TCP Connection Management, 3-Way Handshake, Flow Control, Congestion Control (TCP Tahoe, Reno), UDP.
+- Unit 5: Application Layer: DNS, HTTP, HTTPS, FTP, SMTP, DHCP, Network Security Fundamentals.
+
+COURSE 4: CS401 - ARTIFICIAL INTELLIGENCE & MACHINE LEARNING (AI/ML)
+- Unit 1: Problem Formulation, Uninformed Search (BFS, DFS) & Informed Search (A* Search, Heuristic Functions).
+- Unit 2: Knowledge Representation, First-Order Logic, Inference, Resolution, Expert Systems.
+- Unit 3: Supervised Learning: Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM).
+- Unit 4: Unsupervised Learning & Clustering: K-Means, Hierarchical Clustering, Principal Component Analysis (PCA) Dimensionality Reduction.
+- Unit 5: Deep Learning & Neural Networks: Perceptrons, Multi-Layer Perceptrons (MLP), Backpropagation, Convolutional Neural Networks (CNN).
+
+COURSE 5: CS402 - WEB TECHNOLOGIES & FULL-STACK DEVELOPMENT
+- Unit 1: HTML5, CSS3, Responsive Web Design, Flexbox, Grid, JavaScript Syntax, DOM Manipulation, ES6 Features.
+- Unit 2: React.js Fundamentals: Components, JSX, State & Props, Hooks (useState, useEffect), Event Handling.
+- Unit 3: Backend REST API Design: Node.js, Express.js Framework, Routing, Middleware, Authentication (JWT).
+- Unit 4: Database Integration: MongoDB / PostgreSQL, Mongoose ORM, Async/Await Data Pipelines.
+- Unit 5: Software Engineering & DevOps: Git/GitHub Version Control, CI/CD Pipelines, Docker Containers, Cloud Deployment.

@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and virtual environments
+.pytest_cache/
+.venv/
+venv/
+ENV/
+env/
+
+# Node dependencies and build outputs
+node_modules/
+frontend/dist/
+frontend/node_modules/
+.vite/
+
+# Environment and secret files
+.env
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db

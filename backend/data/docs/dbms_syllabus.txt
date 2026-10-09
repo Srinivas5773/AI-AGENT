@@ -1,0 +1,37 @@
+===============================================================================
+COLLEGE OF ENGINEERING & TECHNOLOGY
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+SYLLABUS & COURSE HANDOUT: DATABASE MANAGEMENT SYSTEMS (CS301)
+===============================================================================
+
+COURSE OVERVIEW:
+Course Code: CS301
+Course Name: Database Management Systems (DBMS)
+Credits: 4
+Prerequisites: Data Structures (CS202)
+Instructor: Dr. Robert Edgar (Email: r.edgar@college.edu, Office: Tech-402)
+
+UNIT 1: INTRODUCTION & DATABASE ARCHITECTURE
+- Fundamental concepts: Data, Database, DBMS, Data Independence (Physical & Logical).
+- Database Architecture: 3-Schema Architecture (Internal, Conceptual, External).
+- Data Models: Relational, ER Diagram, Entity Types, Relationship Sets, Weak Entities, Keys (Primary, Candidate, Foreign, Super Key).
+
+UNIT 2: RELATIONAL ALGEBRA & SQL
+- Relational Algebra Operations: Select, Project, Union, Set Difference, Cartesian Product, Join (Inner, Outer, Equi-join).
+- Structured Query Language (SQL): DDL (CREATE, ALTER, DROP), DML (INSERT, UPDATE, DELETE), DQL (SELECT, WHERE, GROUP BY, HAVING, ORDER BY).
+- Advanced SQL: Subqueries, Correlated Subqueries, Views, Triggers, Indexes.
+
+UNIT 3: NORMALIZATION & DATABASE DESIGN (IMPORTANT TOPICS)
+- Relational Database Design & Functional Dependencies (FDs).
+- Closure of Functional Dependencies & Attribute Closure Algorithm.
+- Normal Forms: 1NF (First Normal Form), 2NF (Second Normal Form), 3NF (Third Normal Form), BCNF (Boyce-Codd Normal Form).
+- Important Topics for Exams: Decompositions, Lossless Join Property, Dependency Preservation, BCNF vs 3NF trade-offs.
+
+UNIT 4: TRANSACTION PROCESSING & CONCURRENCY CONTROL
+- Transaction Concepts: ACID Properties (Atomicity, Consistency, Isolation, Durability).
+- Transaction States: Active, Partially Committed, Committed, Failed, Aborted.
+- Concurrency Control Techniques: Lock-based Protocols (2PL - Two Phase Locking), Deadlock Handling (Prevention, Detection, Recovery), Timestamp Ordering Protocol.
+
+UNIT 5: RECOVERY SYSTEMS & STORAGE ARCHITECTURE
+- Storage Structures: File Organization, Indexing Structures (B-Trees, B+ Trees, Hashing).
+- Recovery Systems: Log-Based Recovery, Write-Ahead Logging (WAL), Checkpoints, Shadow Paging.

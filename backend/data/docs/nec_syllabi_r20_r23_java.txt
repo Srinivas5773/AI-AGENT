@@ -1,0 +1,34 @@
+===============================================================================
+NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS) - COURSE SYLLABUS HANDOUT
+===============================================================================
+Source URL: https://www.nrtec.in/syllabus-2/
+Regulation: R20 / R23 Autonomous Syllabus
+Department: Computer Science & Engineering (CSE)
+
+COURSE CODE: JAVA101 / CS204
+COURSE TITLE: Java Programming & Object-Oriented Software Engineering
+CREDITS: 4 (L:3, T:1, P:0)
+
+UNIT 1: JAVA FUNDAMENTALS & OOP CONCEPTS
+- Introduction to Java: History, JVM (Java Virtual Machine), JRE, JDK, Bytecode, Platform Independence.
+- Object-Oriented Programming (OOP) Principles: Encapsulation, Abstraction, Inheritance, Polymorphism.
+- Java Basics: Data Types, Variables, Operators, Control Statements (if-else, switch, loops), Arrays, Methods.
+
+UNIT 2: CLASSES, OBJECTS & INHERITANCE
+- Classes & Objects: Class Definition, Object Creation, Constructor Overloading, 'this' keyword, Garbage Collection.
+- Inheritance: Single, Multilevel, Hierarchical Inheritance, Method Overriding, 'super' keyword, 'final' keyword.
+- Interfaces & Abstract Classes: Abstract Methods, Multiple Inheritance using Interfaces, Default & Static Methods in Interfaces.
+
+UNIT 3: EXCEPTION HANDLING & MULTITHREADING
+- Exception Handling: Try-Catch blocks, Multiple Catch, Nested Try, Throw, Throws, Finally block, Custom Exceptions.
+- Multithreading: Thread Lifecycle (New, Runnable, Running, Blocked, Terminated), Thread Creation (extending Thread class, implementing Runnable).
+- Synchronization: Synchronized methods & blocks, Inter-thread communication (wait, notify, notifyAll), Deadlocks.
+
+UNIT 4: JAVA COLLECTIONS FRAMEWORK & I/O STREAMS
+- Collections Framework: List (ArrayList, LinkedList), Set (HashSet, TreeSet), Map (HashMap, TreeMap), Queue, Iterator.
+- File I/O Streams: Byte Streams (FileInputStream, FileOutputStream), Character Streams (FileReader, FileWriter), BufferedReader.
+- Generics & Lambda Expressions: Generic Classes & Methods, Functional Interfaces, Lambda Syntax.
+
+UNIT 5: GUI PROGRAMMING & DATABASE CONNECTIVITY (JDBC)
+- Event Handling & Swing: JFrame, JPanel, JButton, JTextField, Layout Managers, Event Listeners.
+- JDBC Architecture: JDBC Drivers, Connection, Statement, PreparedStatement, ResultSet, CRUD operations with MySQL/PostgreSQL.

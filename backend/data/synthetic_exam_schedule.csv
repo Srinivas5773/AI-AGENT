@@ -1,0 +1,6 @@
+student_id,student_name,course_code,subject,exam_date,start_time,end_time,room,building
+S1001,Alice Smith,JAVA101,Java Programming,2026-10-15,09:00 AM,12:00 PM,Hall A-101,Engineering Block
+S1002,Bob Jones,CS202,Data Structures,2026-10-18,02:00 PM,05:00 PM,Lab B-204,Computer Science Wing
+S1003,Charlie Brown,MATH301,Calculus III,2026-10-20,09:00 AM,12:00 PM,Auditorium 3,Science Complex
+S1004,Diana Prince,JAVA101,Java Programming,2026-10-15,09:00 AM,12:00 PM,Hall A-101,Engineering Block
+S1001,Alice Smith,MATH301,Calculus III,2026-10-20,09:00 AM,12:00 PM,Auditorium 3,Science Complex

@@ -1,0 +1,20 @@
+===============================================================================
+NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS) - B.TECH MECHANICAL & CIVIL SYLLABUS
+===============================================================================
+Source URL: https://www.nrtec.in/syllabus-2/
+Regulation: R20 / R23 Autonomous Curriculum
+Branches: Mechanical Engineering (MECH), Civil Engineering (CIVIL)
+
+COURSE 1: ME201 - THERMODYNAMICS & FLUID MECHANICS
+- Unit 1: First & Second Laws of Thermodynamics, Concept of Entropy, Ideal Gas Laws, Carnot Cycle.
+- Unit 2: IC Engines & Power Cycles: Otto, Diesel, Dual Cycles, Air Standard Efficiency.
+- Unit 3: Fluid Statics & Kinematics: Pascal's Law, Continuity Equation, Bernoulli's Theorem & Applications (Venturimeter, Orifice Meter).
+- Unit 4: Fluid Dynamics & Hydraulic Machines: Laminar & Turbulent Flow, Pipe Losses, Pelton Wheel, Francis Turbine, Centrifugal Pumps.
+- Unit 5: Heat Transfer: Conduction (Fourier's Law), Convection (Newton's Law of Cooling), Radiation (Stefan-Boltzmann Law), Heat Exchangers.
+
+COURSE 2: CE201 - STRENGTH OF MATERIALS & STRUCTURAL ANALYSIS
+- Unit 1: Stress & Strain, Hooke's Law, Elastic Constants, Axial Loading, Thermal Stresses.
+- Unit 2: Shear Force & Bending Moment Diagrams (SFD & BMD) for Simply Supported, Cantilever, & Overhanging Beams.
+- Unit 3: Torsion of Circular Shafts, Power Transmission, Torsional Rigidity, Deflection of Beams (Macaulay's Method).
+- Unit 4: Structural Engineering: Truss Analysis (Method of Joints, Method of Sections), Reinforced Cement Concrete (RCC) Design.
+- Unit 5: Surveying & Transportation Engineering: Chain & Compass Surveying, Levelling, Highway Geometric Design, Soil Mechanics.
