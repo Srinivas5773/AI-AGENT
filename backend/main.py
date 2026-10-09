@@ -41,6 +41,11 @@ app = FastAPI(
     version="3.0.0",
 )
 
+@app.get("/", response_model=dict)
+def health_check():
+    """Simple health check endpoint returning service status."""
+    return {"status": "ok", "message": "NEC Campus Copilot API is running"}
+
 origins = [
     FRONTEND_ORIGIN,
     "http://localhost:5173",
